@@ -15,7 +15,7 @@ public class FirstClass {
 
     public static void test() {
         int i=5;
-        int j=5;
+        int j=4;
         int sun=i+j;
         System.out.println("sun="+sun);
     }
